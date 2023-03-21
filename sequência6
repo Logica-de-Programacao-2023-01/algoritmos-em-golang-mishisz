@@ -11,5 +11,5 @@ func main() {
 
 	//aumento
 	calculo := (salário/100)*15 + salário
-	fmt.Printf("seu salário foi reajustado para:%.2f ", Cálculo)
+	fmt.Printf("seu salário foi reajustado para:%.2f ", calculo)
 }
